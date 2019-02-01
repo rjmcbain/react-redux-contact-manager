@@ -1,3 +1,8 @@
+## View Project
+
+Open [https://rjmcbain.github.io/react-redux-contact-manager/#/](https://rjmcbain.github.io/react-redux-contact-manager/#/) to view it in the browser.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
